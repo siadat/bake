@@ -1,0 +1,3 @@
+fn main() begin
+    printf("hello world")
+end

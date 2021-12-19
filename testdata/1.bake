@@ -1,0 +1,8 @@
+fn greet(name string) begin
+  printf("hello %s!\n", name)
+end
+
+fn main() begin
+  greet("GopherCon")
+end
+
